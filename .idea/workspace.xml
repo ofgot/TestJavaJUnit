@@ -2,41 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="122be6f3-a812-492b-95e1-f8dc17051f49" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/EshopTest/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EshopTest/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EshopTest/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EshopTest/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EshopTest/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EshopTest/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EshopTest/src/main/java/cz/cvut/fel/ts1/archive/ItemPurchaseArchiveEntry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EshopTest/src/main/java/cz/cvut/fel/ts1/archive/PurchasesArchive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EshopTest/src/main/java/cz/cvut/fel/ts1/shop/DiscountedItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EshopTest/src/main/java/cz/cvut/fel/ts1/shop/EShopController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EshopTest/src/main/java/cz/cvut/fel/ts1/shop/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EshopTest/src/main/java/cz/cvut/fel/ts1/shop/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EshopTest/src/main/java/cz/cvut/fel/ts1/shop/ShoppingCart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EshopTest/src/main/java/cz/cvut/fel/ts1/shop/StandardItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EshopTest/src/main/java/cz/cvut/fel/ts1/storage/ItemStock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EshopTest/src/main/java/cz/cvut/fel/ts1/storage/NoItemInStorage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EshopTest/src/main/java/cz/cvut/fel/ts1/storage/Storage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EshopTest/src/test/java/org/example/EshopControllerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EshopTest/src/test/java/org/example/ItemStockTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EshopTest/src/test/java/org/example/OrderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EshopTest/src/test/java/org/example/PurchasesArchiveTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EshopTest/src/test/java/org/example/StandardItemTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CalculatorTest/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first/src/main/java/org/example/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/CalculatorTest/src/main/java/org/example/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/CalculatorTest/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first/src/test/java/org/example/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CalculatorTest/src/test/java/org/example/CalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first/target/classes/org/example/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/CalculatorTest/target/classes/org/example/Calculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first/target/classes/org/example/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/CalculatorTest/target/classes/org/example/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first/target/first-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/CalculatorTest/target/first-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/CalculatorTest/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/CalculatorTest/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/CalculatorTest/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/CalculatorTest/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/CalculatorTest/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first/target/test-classes/org/example/CalculatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/CalculatorTest/target/test-classes/org/example/CalculatorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalculatorTest/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalculatorTest/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalculatorTest/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalculatorTest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalculatorTest/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalculatorTest/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalculatorTest/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalculatorTest/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalculatorTest/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalculatorTest/src/main/java/org/example/secondhomeworkts1/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalculatorTest/src/main/java/org/example/secondhomeworkts1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalculatorTest/src/main/resources/org/example/secondhomeworkts1/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactorialTest/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactorialTest/src/test/java/org/example/CalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculatorTest/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CalculatorTest/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculatorTest/src/main/java/org/example/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/FactorialTest/src/main/java/org/example/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculatorTest/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/FactorialTest/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculatorTest/src/test/java/org/example/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CalculatorTest/src/test/java/org/example/CalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculatorTest/target/classes/org/example/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/FactorialTest/target/classes/org/example/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculatorTest/target/classes/org/example/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/FactorialTest/target/classes/org/example/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculatorTest/target/first-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/FactorialTest/target/first-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculatorTest/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/FactorialTest/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculatorTest/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/FactorialTest/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculatorTest/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/FactorialTest/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculatorTest/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/FactorialTest/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculatorTest/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/FactorialTest/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculatorTest/target/test-classes/org/example/CalculatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/FactorialTest/target/test-classes/org/example/CalculatorTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,25 +41,25 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2gogPg3Lxdq9MwWDrS2bGT3dqws" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/ofgot/TestJavaJUnit",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ofgot/TestJavaJUnit&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -89,6 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1716369321329</updated>
       <workItem from="1716369322372" duration="154000" />
+      <workItem from="1716369682293" duration="162000" />
     </task>
     <servers />
   </component>

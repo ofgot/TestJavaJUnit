@@ -1,6 +1,6 @@
 package org.example;
 
-public class Calculator {
+public class Factorial {
     public long factorial(long n){
         if (n>1){
             return n*factorial(n-1);
